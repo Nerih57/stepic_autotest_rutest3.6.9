@@ -1,0 +1,1 @@
+# stepic_autotest_rutest3.6.9
